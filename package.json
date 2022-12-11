@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "busboy": "^0.3.1",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "nodemon": "^1.11.0"
